@@ -22,3 +22,7 @@ i did an html file to make simple chat user interface and create events and fire
 ## UML:
 
 ![](1.png)
+
+## pull request:
+
+https://github.com/saadomaralzoubi/chat_app/pull/1
